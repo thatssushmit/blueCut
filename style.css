@@ -184,7 +184,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("/images/sushmitbg2.png") no-repeat;
+    background: url("/images/L__1_-removebg.png") no-repeat;
     height: 100vh;
     color:var(--font-color);
     min-height: 100%;
