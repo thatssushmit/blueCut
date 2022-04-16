@@ -1,4 +1,8 @@
  // slide-up script
+const trigger= document.querySelector("menu>.trigger");
+trigger.addEventListener('click',(e)=>{
+    e.currentTarget.parentElement.classList.toggle("open");
+});
 scrollupbtn = document.getElementById("scroll-up-btn");
 navBarSelector = document.getElementById("navbar")
 
